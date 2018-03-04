@@ -2,7 +2,7 @@
 
 ## Install
 ```sh
-$ git clone https://github.com/InasKamel/Memory-Game.git
+$ git clone https://github.com/InasKamel/Memory-Card-Game.git
 ```
 
 
