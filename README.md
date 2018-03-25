@@ -14,3 +14,5 @@ as you clicked another card , it flipped over and if the tow cards match, they w
 flipped. if not they will disappear, and so on.
 if the all cards matched , you will win the game.
 Note: your performance (star rating) depends on your number of moves , and if you consume your stars, the game will finish and also if the timer reaches 3 minutes.
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
